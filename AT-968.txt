@@ -1,0 +1,10 @@
+Commands :
+----------
+1.git status   	> To know the status of Repository/Folder
+2.git init 	> To make the folder as Git Repository
+3.git add hello.txt	> To Start tracking some untracked Files/Folder  > This is 1st Step of Saving
+4.git commit -m "This is First Commit"
+5.Set Email id & name:
+	git config --global user.email "mpremchand99@gmail.com"
+	git config --global user.name "Premchand Vishwakarma" 
+6.git log	> To Know History of Commit
